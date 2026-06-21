@@ -5,20 +5,16 @@ date: '2026-06-21'
 description: >-
   A Hawaiian dish typically made with raw fish marinated in sesame oil and soy
   sauce, tossed with sweet onion and sea salt, and seasoned with sesame seeds
-  and other flavors. This version is a fresh tuna and seaweed salad, usually
+  and other flavors. This version is a fresh tuna salad, usually
   served on its own as a starter or on a bed of steamed rice as a main dish.
 version: 1
 ---
 # Ahi Poke (Hawaiian Raw Tuna Salad)
 
-A Hawaiian dish typically made with raw fish marinated in sesame oil and soy sauce, tossed with sweet onion and sea salt, and seasoned with sesame seeds and other flavors. This version is a fresh tuna and seaweed salad, usually served on its own as a starter or on a bed of steamed rice as a main dish.
-
-- **Source:** [Original Recipe](https://www.seriouseats.com/ahi-poke-hawaiian-raw-tuna-salad-recipe)
+A Hawaiian dish typically made with raw fish marinated in sesame oil and soy sauce, tossed with sweet onion and sea salt, and seasoned with sesame seeds and other flavors. This version is a fresh tuna salad, usually served on its own as a starter or on a bed of steamed rice as a main dish.
 
 ## Ingredients
 
-- 2 teaspoons (about 1g) dried wakame
-- 1 teaspoon (about 0.5g) dried hijiki (optional)
 - 12 ounces (340g) raw sashimi-grade tuna, cut into ½-inch cubes
 - 3 ounces (85g) sweet onion, such as Maui or Vidalia, cut into ¼-inch dice
 - 1 scallion, thinly sliced
