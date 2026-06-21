@@ -32,12 +32,6 @@ A Hawaiian dish typically made with raw fish marinated in sesame oil and soy sau
 
 ## Instructions
 
-### Rehydrate Seaweed
-
-1. Place wakame and hijiki (if using) in separate small bowls. Cover with boiling water and let rest until rehydrated and tender, about 5 minutes. Drain and press with paper towels. Roughly chop wakame. Add wakame and hijiki to a large bowl.
-
-### Combine Ingredients
-
 1. Add tuna, onion, scallion, sesame seeds, soy sauce, sesame oil, honey, and optional crushed red pepper to bowl. Season with a small pinch of kosher salt and gently fold to combine.
 2. Taste and adjust with more soy sauce, sesame oil, honey, or crushed red pepper as desired.
 3. Let sit 5 minutes at room temperature, then serve on its own or on top of steamed rice.
