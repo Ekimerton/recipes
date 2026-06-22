@@ -1,5 +1,5 @@
 ---
-title: Braised Chicken Thighs with Cabbage and Bacon
+title: Chicken Thighs with Cabbage and Bacon
 originalUrl: 'https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe'
 date: '2026-06-21'
 description: >-
