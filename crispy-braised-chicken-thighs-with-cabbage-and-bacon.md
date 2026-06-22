@@ -3,21 +3,14 @@ title: Crispy Braised Chicken Thighs with Cabbage and Bacon
 originalUrl: 'https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe'
 date: '2026-06-21'
 description: >-
-  Braising chicken with crispy skin is a great technique for an infinite number
-  of dishes. Here, we pair it with cabbage and bacon. This is cold-weather
-  comfort food in its most satisfying form—crispy-skinned chicken thighs nestled
-  into melting cabbage flavored with smoky bacon, sharp vinegar, and a generous
-  spoonful of mustard. The fat from browning the chicken and bacon becomes the
-  base for a pan of slowly caramelized onions and cabbage. A splash of cider
-  vinegar brightens everything up, while thyme and bay add backbone. You finish
-  the dish by stirring in a bit of butter for richness and spooning it
-  all—braising juices and all—into bowls. It's hearty, tangy, and deeply
-  comforting.
+  Crispy-skinned chicken thighs braised with tender cabbage and smoky bacon,
+  brightened with cider vinegar and mustard. A hearty, comforting dish perfect
+  for cold weather.
 version: 1
 ---
 # Crispy Braised Chicken Thighs with Cabbage and Bacon
 
-Braising chicken with crispy skin is a great technique for an infinite number of dishes. Here, we pair it with cabbage and bacon. This is cold-weather comfort food in its most satisfying form—crispy-skinned chicken thighs nestled into melting cabbage flavored with smoky bacon, sharp vinegar, and a generous spoonful of mustard. The fat from browning the chicken and bacon becomes the base for a pan of slowly caramelized onions and cabbage. A splash of cider vinegar brightens everything up, while thyme and bay add backbone. You finish the dish by stirring in a bit of butter for richness and spooning it all—braising juices and all—into bowls. It's hearty, tangy, and deeply comforting.
+Crispy-skinned chicken thighs braised with tender cabbage and smoky bacon, brightened with cider vinegar and mustard. A hearty, comforting dish perfect for cold weather.
 
 - **Source:** [Original Recipe](https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe)
 
