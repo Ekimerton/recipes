@@ -12,17 +12,28 @@ version: 1
 
 ## Ingredients
 
+### For the Gelatin Mixture
 - 2 (.25 ounce) packets unflavored powdered gelatin (about 5 teaspoons)
 - 2 cups homemade or store-bought low-sodium chicken stock
-- Kosher salt and freshly ground black pepper
-- 2 tablespoons mild paprika
-- 4 (1 1/2- to 2-inch thick) beef tenderloin steaks, 6 to 8 ounces each (see note)
-- 3 tablespoons canola or vegetable oil
+
+### For Seasoning and Searing the Beef
+- 4 (1 1/2- to 2-inch thick) beef tenderloin steaks, 6 to 8 ounces each
+- Kosher salt
+- Freshly ground black pepper
+- 1 tablespoon mild paprika (from 2 tablespoons total)
+- 1 1/2 tablespoons canola or vegetable oil (from 3 tablespoons total)
+
+### For the Mushroom and Onion Base
 - 12 ounces button mushrooms, quartered
-- 8 ounces peeled pearl onions (about 24 onions, see note)
-- 3 tablespoons unsalted butter, divided
+- 8 ounces peeled pearl onions (about 24 onions)
 - 1 medium shallot, thinly sliced (about 1/4 cup)
 - 4 sprigs fresh thyme
+- 1 1/2 tablespoons canola or vegetable oil (remaining)
+- 1 1/2 tablespoons unsalted butter (from 3 tablespoons total, divided)
+
+### For the Sauce
+- 1 tablespoon mild paprika (remaining)
+- 1 1/2 tablespoons unsalted butter (remaining, divided)
 - 1 teaspoon soy sauce
 - 2 teaspoons Worcestershire sauce
 - 1 teaspoon Asian fish sauce
