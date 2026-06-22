@@ -1,5 +1,5 @@
 ---
-title: Poke
+title: Poke Bowl
 originalUrl: 'https://www.seriouseats.com/ahi-poke-hawaiian-raw-tuna-salad-recipe'
 date: '2026-06-21'
 description: >-
