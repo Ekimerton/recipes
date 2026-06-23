@@ -1,14 +1,8 @@
 ---
-title: Chicken Thighs with Cabbage and Bacon
 originalUrl: 'https://www.seriouseats.com/braised-chicken-thighs-cabbage-bacon-recipe'
-date: '2026-06-21'
-description: >-
-  Crispy-skinned chicken thighs braised with tender cabbage and smoky bacon,
-  brightened with cider vinegar and mustard. A hearty, comforting dish perfect
-  for cold weather.
 version: 1
 ---
-# Crispy Braised Chicken Thighs with Cabbage and Bacon
+# Chicken Thighs with Cabbage and Bacon
 
 Crispy-skinned chicken thighs braised with tender cabbage and smoky bacon, brightened with cider vinegar and mustard. A hearty, comforting dish perfect for cold weather.
 
