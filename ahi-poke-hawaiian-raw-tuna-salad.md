@@ -1,16 +1,8 @@
 ---
-title: Poke Bowl
 originalUrl: 'https://www.seriouseats.com/ahi-poke-hawaiian-raw-tuna-salad-recipe'
-date: '2026-06-21'
-description: >-
-  A Hawaiian dish typically made with raw fish marinated in sesame oil and soy
-  sauce, tossed with sweet onion and sea salt, and seasoned with sesame seeds
-  and other flavors. This version is a fresh raw fish salad, typically made
-  with tuna or salmon, usually served on its own as a starter or on a bed of
-  steamed rice as a main dish.
 version: 1
 ---
-# Poke
+# Poke (Kenji's Version)
 
 A Hawaiian dish typically made with raw fish marinated in sesame oil and soy sauce, tossed with sweet onion and sea salt, and seasoned with sesame seeds and other flavors. This version is a fresh raw fish salad, typically made with tuna or salmon, usually served on its own as a starter or on a bed of steamed rice as a main dish.
 
