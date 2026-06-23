@@ -1,13 +1,8 @@
 ---
-title: Spicy Chili Crisp Tuna Poke
 originalUrl: 'https://www.youtube.com/watch?v=guXtz64bIlo&t=102s'
-date: '2026-06-23'
-description: >-
-  A vibrant tuna poke dish featuring a spicy chili crisp marinade, complemented
-  by the savory flavors of oyster sauce, shoyu, yuzu, and aromatic sesame oil.
 version: 1
 ---
-# Spicy Chili Crisp Tuna Poke
+# Poke (Joshua Weissman's Version)
 
 A vibrant tuna poke dish featuring a spicy chili crisp marinade, complemented by the savory flavors of oyster sauce, shoyu, yuzu, and aromatic sesame oil.
 
