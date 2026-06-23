@@ -1,12 +1,10 @@
 ---
-title: Beef Stroganoff
 originalUrl: 'https://www.seriouseats.com/ultimate-beef-stroganof-recipe'
-date: '2026-06-21'
-description: 'Experience the ultimate beef stroganoff with this rich and creamy recipe featuring perfectly seared beef tenderloin, savory mushrooms, and pearl onions, all bathed in a deeply flavored sauce enhanced with gelatin for an unbelievably luxurious texture. A truly decadent classic, perfect served over rice.'
 version: 1
 ---
 # Ultimate Beef Stroganoff
 
+Experience the ultimate beef stroganoff with this rich and creamy recipe featuring perfectly seared beef tenderloin, savory mushrooms, and pearl onions, all bathed in a deeply flavored sauce enhanced with gelatin for an unbelievably luxurious texture. A truly decadent classic, perfect served over rice.
 
 - **Source:** [Original Recipe](https://www.seriouseats.com/ultimate-beef-stroganof-recipe)
 
