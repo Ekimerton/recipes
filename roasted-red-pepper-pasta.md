@@ -24,9 +24,9 @@ A simple pasta dish featuring caramelized shallots folded into a red pepper sauc
 
 ## Instructions
 
-1. Red Pepper Puree: Blend the red peppers, water, and broth base until smooth.
-2. Saute the Shallots: Heat a large skillet over medium heat. Add the butter and shallots; sauté until golden brown, about 10-15 minutes.
-3. Cook Pasta: Cook pasta according to package directions until al dente.
-4. Combine Sauce: Reduce heat to medium-low. Add the red pepper puree and stir for a moment. Add the cream. Stir to combine and simmer gently until thickened.
-5. Add Pasta: Add pasta into the sauce. Simmer for a few moments to thicken and coat the noodles. If needed, add reserved pasta water to reach desired consistency.
-6. Serve immediately, topped with Parmesan, basil, and/or red pepper flakes.
+1. Blend the red peppers, water, and broth base until smooth.
+2. Heat a large skillet over medium heat. Add the butter and shallots; sauté until golden brown, about 10-15 minutes.
+3. Cook pasta according to package directions until al dente.
+4. Reduce heat to medium-low. Add the red pepper puree and stir for a moment. Add the cream. Stir to combine and simmer gently until thickened.
+5. Add pasta into the sauce. Simmer for a few moments to thicken and coat the noodles. If needed, add reserved pasta water to reach desired consistency.
+6. Serve immediately, topped with parmesan, basil, and/or red pepper flakes.
