@@ -5,7 +5,7 @@ version: 1
 
 # Roasted Red Pepper Pasta
 
-Restaurant-level pasta, easy enough to be SOS! Caramelized shallots folded into a silky red pepper sauce, and tossed with noodles. 
+A simple pasta dish featuring caramelized shallots folded into a red pepper sauce, tossed with noodles.
 
 - **Source:** [Original Recipe](https://pinchofyum.com/roasted-red-pepper-pasta)
 
@@ -25,8 +25,8 @@ Restaurant-level pasta, easy enough to be SOS! Caramelized shallots folded into 
 ## Instructions
 
 1. Red Pepper Puree: Blend the red peppers, water, and broth base until smooth.
-2. Saute the Shallots: Heat a large skillet over medium heat. Add the butter and shallots; sauté until the shallots are lightly golden brown and caramelized, about 10-15 minutes.
-3. Cook Pasta: During this time, cook the pasta according to package directions, to al dente so the noodles can finish in the sauce.
-4. Combine Sauce: Turn the heat down to avoid splatters; add the red pepper puree and let it sizzle out for a moment. Then add the cream. Stir to combine; let it gently bubble for a few moments until it has thickened into a nice creamy sauce.
-5. Add Pasta: Add pasta into the sauce; let it simmer for a few moments to thicken and coat the noodles. If needed, add reserved pasta water to reach desired consistency.
-6. Yum. Serve immediately, topped with Parmesan, basil, and/or red pepper flakes. It’s so gooood.
+2. Saute the Shallots: Heat a large skillet over medium heat. Add the butter and shallots; sauté until golden brown, about 10-15 minutes.
+3. Cook Pasta: Cook pasta according to package directions until al dente.
+4. Combine Sauce: Reduce heat to medium-low. Add the red pepper puree and stir for a moment. Add the cream. Stir to combine and simmer gently until thickened.
+5. Add Pasta: Add pasta into the sauce. Simmer for a few moments to thicken and coat the noodles. If needed, add reserved pasta water to reach desired consistency.
+6. Serve immediately, topped with Parmesan, basil, and/or red pepper flakes.
