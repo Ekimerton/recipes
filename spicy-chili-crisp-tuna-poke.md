@@ -4,14 +4,14 @@ version: 1
 ---
 # Poke (Joshua Weissman's Version)
 
-A vibrant tuna poke dish featuring a spicy chili crisp marinade, complemented by the savory flavors of oyster sauce, shoyu, yuzu, and aromatic sesame oil.
+A vibrant tuna poke dish featuring a customizable spicy marinade, complemented by the savory flavors of oyster sauce, shoyu, yuzu, and aromatic sesame oil.
 
 - **Source:** [Original Recipe](https://www.youtube.com/watch?v=guXtz64bIlo&t=102s)
 
 ## Ingredients
 
 - 2-3 cloves garlic, very finely chopped
-- 2 tablespoons (30g) spicy chili crisp (solids only)
+- 2 tablespoons (30g) reader's choice of spice (e.g., gochugaru, red pepper flakes, sriracha)
 - 1.5 tablespoons (23g) oyster sauce
 - 2 tablespoons (30ml) shoyu (soy sauce)
 - 1 tablespoon (14ml) yuzu juice or lemon juice
@@ -24,7 +24,7 @@ A vibrant tuna poke dish featuring a spicy chili crisp marinade, complemented by
 
 ### For the Marinade
 
-1. In a medium-sized bowl, combine the very finely chopped garlic, spicy chili crisp solids, oyster sauce, shoyu, yuzu juice (or lemon juice), toasted sesame oil, and mirin.
+1. In a medium-sized bowl, combine the very finely chopped garlic, reader's choice of spice, oyster sauce, shoyu, yuzu juice (or lemon juice), toasted sesame oil, and mirin.
 2. Mix thoroughly until all ingredients are well combined to create the marinade.
 
 ### Prepare the Tuna
