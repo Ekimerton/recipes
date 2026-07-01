@@ -5,19 +5,19 @@ version: 1
 
 # Jalapeño Lime Crema
 
-This Jalapeño Lime Crema will become your new favorite dip, dressing, and sauce. It is so creamy, tangy, and only takes 5 minutes to make. Put it on tacos, salads, bowls, or dip chips/veggies in it. Regardless, it is absolutely addicting.
+This creamy, tangy Jalapeño Lime Crema is a versatile dip, dressing, or sauce that takes only 5 minutes to make. Perfect for tacos, salads, bowls, or as a dip for chips and veggies.
 
 - **Source:** [Original Recipe](https://biteswithbri.com/jalapeno-lime-crema/#wprm-recipe-container-8773)
 
 ## Ingredients
 
 - 1 cup cilantro leaves and stems packed
-- 2/3 cup (6 ounces) sour cream*
+- 2/3 cup (6 ounces) sour cream or plain Greek yogurt
 - 1 Tablespoon onion chopped
-- 1-2 jalapeños* with seeds and membranes
+- 1-2 jalapeños with seeds and membranes
 - 2 cloves garlic
 - 1 Tablespoon lime juice
-- 1 teaspoon honey*
+- 1 teaspoon honey
 - 1/4 teaspoon salt
 
 ## Instructions
