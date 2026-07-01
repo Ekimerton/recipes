@@ -22,4 +22,6 @@ This recipe started because of two things: 1. I love pho 2. I like making broth 
 1. Roast the veggies
 2. Toast pho spices, then put into bag
 3. Put everything into a pot, fill with water until everything is submerged
-4. Boil for 1-1.5 hours, strain and enjoy
+4. Boil for 1-1.5 hours, strain
+5. Add fish sauce and salt to taste
+6. Serve with rice noodles and enjoy :)
