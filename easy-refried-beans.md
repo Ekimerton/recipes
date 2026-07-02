@@ -3,7 +3,7 @@ originalUrl: 'https://cookieandkate.com/easy-refried-beans-recipe/'
 version: 1
 ---
 
-# Easy Refried Beans
+# Refried Beans
 
 These refried beans are delicious and so easy to make. This refried bean recipe is quick, too—use canned beans and they're ready in 25 minutes! Plus, these beans are healthy, vegan and gluten free. Recipe yields 2 1/2 cups refried beans (21 ounces), enough for 5 servings.
 
