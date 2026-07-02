@@ -2,7 +2,7 @@
 originalUrl: 'https://www.youtube.com/watch?v=guXtz64bIlo&t=102s'
 version: 1
 ---
-# Poke (Joshua Weissman's Version)
+# Poke 
 
 A vibrant tuna poke dish featuring a customizable spicy marinade, complemented by the savory flavors of oyster sauce, shoyu, yuzu, and aromatic sesame oil.
 
