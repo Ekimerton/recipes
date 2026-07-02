@@ -50,7 +50,8 @@ A classic Pacific Northwest favorite featuring juicy, marinated grilled chicken 
 ### Marinate the Chicken
 
 1. Remove and discard the large aromatic pieces (whole garlic, ginger slices, and carrot chunk) from the sauce, leaving the minced garlic and ginger behind.
-2. Transfer a few spoonfuls of this unthickened warm sauce into a bowl or zip-top bag with the chicken thighs. Toss to coat and marinate in the refrigerator for at least 1 hour (and up to 8 hours).
+2. Butterfly the chicken thighs to ensure even thickness and uniform cooking.
+3. Transfer a few spoonfuls of this unthickened warm sauce into a bowl or zip-top bag with the chicken thighs. Toss to coat and marinate in the refrigerator for at least 1 hour (and up to 8 hours).
 
 ### Thicken the Sauce
 
