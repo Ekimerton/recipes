@@ -3,7 +3,7 @@ originalUrl: 'https://www.seriouseats.com/ultimate-beef-stroganof-recipe'
 version: 1
 ---
 
-# Beef Stroganoff 2
+# Beef Stroganoff
 
 This ultimate version of the classic beef stroganoff features perfectly seared, juicy beef tenderloin steaks, caramelized pearl onions, and savory mushrooms, all served over egg noodles coated in an exceptionally rich, velvety sour cream sauce enhanced with umami-rich ingredients like fish sauce, soy sauce, and Worcestershire.
 
