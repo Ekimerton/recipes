@@ -11,26 +11,32 @@ A classic Pacific Northwest favorite featuring juicy, marinated grilled chicken 
 
 ## Ingredients
 
+### Chicken & Teriyaki Sauce
 - 1.5 lbs boneless, skinless chicken thighs
 - 1 cup sake
 - 1 cup mirin
 - 1 cup soy sauce
 - 1/2 cup brown sugar
-- 1 small chunk carrot, plus 1/4 cup shredded carrot for the salad
+- 1 small chunk carrot
 - 2 whole garlic cloves, peeled
 - 2 whole slices fresh ginger
 - 1 tbsp fresh ginger, minced
 - 3 cloves garlic, minced
-- 1 tsp rice vinegar (for the sauce)
+- 1 tsp rice vinegar
 - 2 tbsp cornstarch
 - 2 tbsp cold water
+
+### Salad & Dressing
+- 1/2 head iceberg lettuce, chopped into 1.5-inch squares
+- 1/4 cup shredded carrot
+- A small handful of red cabbage, shredded
 - 1/2 cup Japanese mayonnaise (such as Kewpie)
-- 1/4 cup rice vinegar (for the dressing)
+- 1/4 cup rice vinegar
 - 1/4 cup white sugar
 - Freshly cracked black pepper, to taste
-- 1/2 head iceberg lettuce, chopped into 1.5-inch squares
-- A small handful of red cabbage, shredded
-- Steamed white rice, for serving
+
+### For Serving
+- Steamed white rice
 
 ## Instructions
 
