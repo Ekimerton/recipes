@@ -10,7 +10,7 @@ This ultimate version of the classic beef stroganoff features perfectly seared, 
 
 ## Ingredients
 
-### Beef
+### Seasoned Steak
 - 1.5 to 2 lbs beef steak, any cut (such as tenderloin, sirloin, ribeye, or flank steak)
 - 1 tbsp mild sweet paprika
 - 1.5 tbsp neutral cooking oil (such as canola or vegetable)
