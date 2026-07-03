@@ -4,7 +4,7 @@ originalUrl: >-
 version: 1
 ---
 
-# Homemade Japanese Pork and Cabbage Gyoza
+# Pork and Cabbage Gyoza
 
 These classic pan-fried Japanese dumplings feature a savory pork and cabbage filling encased in a thin, delicate skin. Salting and squeezing the cabbage ensures a juicy, concentrated filling that won't make the wrapper soggy. The dumplings are cooked using a traditional steam-fry technique that yields a tender, noodle-soft top and an incredibly crisp, golden-brown bottom.
 
