@@ -6,7 +6,7 @@ version: 1
 
 # Pork and Cabbage Gyoza
 
-These classic pan-fried Japanese dumplings feature a savory pork and cabbage filling encased in a thin, delicate skin. Salting and squeezing the cabbage ensures a juicy, concentrated filling that won't make the wrapper soggy. The dumplings are cooked using a traditional steam-fry technique that yields a tender, noodle-soft top and an incredibly crisp, golden-brown bottom.
+These classic pan-fried Japanese dumplings feature a savory pork and cabbage filling. Salting the cabbage ensures a juicy filling, while a traditional steam-fry technique yields a tender top and an incredibly crisp, golden-brown bottom.
 
 - **Source:** [Original Recipe](https://www.seriouseats.com/the-best-japanese-pork-and-cabbage-dumplings-gyoza-recipe)
 
@@ -18,7 +18,6 @@ These classic pan-fried Japanese dumplings feature a savory pork and cabbage fil
 - 1 lb green Napa cabbage, finely minced (about 1/2 of a medium head)
 - 1 tbsp kosher salt, divided
 - 1 lb fatty ground pork shoulder
-- 1 tsp ground white pepper
 - 1 tbsp fresh garlic, finely minced (roughly 3 medium cloves)
 - 1 tsp fresh ginger, grated or minced
 - 2 oz scallions, finely chopped (about 3 whole green onions)
@@ -38,9 +37,9 @@ These classic pan-fried Japanese dumplings feature a savory pork and cabbage fil
 ### Make the Filling
 
 1. In a large bowl, toss the finely minced Napa cabbage with 2 teaspoons of the salt until thoroughly mixed. Place the cabbage into a fine-mesh strainer and rest it over the bowl at room temperature for roughly 15 minutes.
-2. Move the cabbage to the center of a clean, dry kitchen towel. Bring the towel corners together and twist tightly to press out all excess water from the cabbage. Throw away the extracted liquid.
-3. In a clean large bowl, combine the ground pork, dry cabbage, the leftover 1 teaspoon of salt, ground white pepper, minced garlic, grated ginger, sliced scallions, and granulated sugar. Using your hands, work and knead the mixture together until it is completely blended, sticky, and tacky.
-4. Place a tiny, teaspoon-sized spoonful of the pork mixture onto a microwave-safe dish and cook on high for approximately 10 seconds until cooked through. Taste this sample and add extra salt, sugar, or white pepper to the raw filling if needed.
+2. Transfer the cabbage to a salad spinner and spin thoroughly to extract and remove all excess water. Discard the liquid.
+3. In a clean large bowl, combine the ground pork, dry cabbage, the leftover 1 teaspoon of salt, minced garlic, grated ginger, sliced scallions, and granulated sugar. Using your hands, work and knead the mixture together until it is completely blended, sticky, and tacky.
+4. Place a tiny, teaspoon-sized spoonful of the pork mixture onto a microwave-safe dish and cook on high for approximately 10 seconds until cooked through. Taste this sample and add extra salt or sugar to the raw filling if needed.
 
 ### Assemble the Dumplings
 
@@ -53,6 +52,7 @@ These classic pan-fried Japanese dumplings feature a savory pork and cabbage fil
 1. Pour 1 tablespoon of canola or vegetable oil into a medium non-stick skillet over medium heat. Arrange as many dumplings as can fit in a single, flat layer and cook, occasionally swirling the skillet, until the bottoms turn deep golden-brown (roughly 1.5 to 2 minutes).
 2. Boost the heat to medium-high. Carefully pour 1/2 cup of water into the skillet and cover immediately with a tight-fitting lid. Steam the dumplings for about 3 minutes (increase to 5 minutes if you are cooking them from a frozen state).
 3. Take off the lid and continue to fry the dumplings for another 2 minutes, or until the liquid evaporates and the bottom crust is completely crisp again.
+4. Alternatively, you can cook the gyoza in an air fryer: lightly spray the dumplings with oil and air fry at 390°F for 10 minutes, or until cooked through and crispy.
 
 ### Prepare the Dipping Sauce and Serve
 
