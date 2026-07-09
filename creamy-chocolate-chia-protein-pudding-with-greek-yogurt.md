@@ -3,7 +3,7 @@ originalUrl: 'https://www.lindsaypleskot.com/chocolate-chia-pudding/'
 version: 1
 ---
 
-# Creamy Chocolate Chia Protein Pudding with Greek Yogurt
+# Chocolate Chia Pudding with Greek Yogurt
 
 This irresistibly creamy chocolate chia pudding comes together in just 10 minutes with six simple ingredients you might already have on hand. With 18g protein per serving thanks to Greek yogurt (no protein powder needed), unsweetened cocoa powder and fiber-rich chia seeds, it’s a nourishing breakfast or snack that’s as satisfying as it is delicious.
 
