@@ -8,7 +8,7 @@ version: 1
 For 2 servings
 
 ## Ingredients
-Salad
+### Salad
 - A few large kale leaves
 - 1 baby cucumber
 - 2 scallions, light green & white parts
@@ -16,7 +16,7 @@ Salad
 - Feta cheese to taste
 - Optional: chicken
 
-Dressing
+### Dressing
 - 1/4 cup basil leaves or basil paste equivalent 
 - 1/2 cup fresh spinach
 - 1 clove garlic
