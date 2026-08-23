@@ -3,7 +3,7 @@ originalUrl: 'https://www.seriouseats.com/tender-beef-barbacoa-chipotle-tacos-re
 version: 1
 ---
 
-# Tender Beef Barbacoa Tacos
+# Beef Barbacoa Tacos
 
 This incredibly juicy and flavor-packed beef barbacoa is slow-braised to meltingly tender perfection. Inspired by the beloved Mexican classic, this recipe uses a customized blend of dried chiles, smoky chipotles in adobo, and a secret splash of fish sauce to build a rich, deeply savory flavor profile that easily surpasses any restaurant version.
 
