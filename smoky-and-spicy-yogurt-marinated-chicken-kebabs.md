@@ -3,7 +3,7 @@ originalUrl: 'https://www.seriouseats.com/smoky-spicy-yogurt-marinated-chicken-k
 version: 1
 ---
 
-# Smoky and Spicy Yogurt-Marinated Chicken
+# Yogurt-Marinated Chicken
 
 These flavorful, juicy grilled chicken thighs feature a rich, smoky, and spicy marinade inspired by traditional Indian tandoori chicken. Whole milk yogurt acts as a gentle tenderizer to ensure the boneless chicken thighs stay incredibly moist on the hot grill, while hot and smoked paprikas deliver a deep, complex warmth.
 
